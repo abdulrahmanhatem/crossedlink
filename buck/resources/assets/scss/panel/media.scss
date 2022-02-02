@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&display=swap');
+
+html, body, div, h1, h2, h3, h4, h5, h6, p, a, span, section, nav{
+    font-family: 'Tajawal', sans-serif!important;
+    font-weight: 500!important;
+}
+  
+  .search-li{
+    width: 500px;
+}
+.toast:not(:last-child) {
+    margin-bottom: 0;
+    margin: 0!important;
+}
+.navbar-nav > .user-menu > .dropdown-menu {
+    width: 150px;
+}
+.text-secondary {
+    color: #ffffff !important;
+    background: #ed5665;
+    padding: 0 13px;
+    border-radius: 9px;
+    float: right;
+    margin-right: 10px;
+}
+.approve .icon-check:before {
+    margin: 7px;
+}
+.main-sidebar .logo {
+    width: 130px;
+    margin: 15px auto;
+}
+.offcanvas .sidebar-menu li i {
+    margin-right: 24px;
+    color: #07609b;
+}
+a, a:hover, a:active, button, button:hover, button:active{
+    outline: none!important;
+    border: none!important
+}
+/* Start Media */
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) {  
+    .form-row.profile-container{
+        flex-direction: column-reverse;
+    }
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) {  
+
+}
+
+@media (min-width: 767.98px) { 
+    .modal-dialog {
+        max-width: 800px;
+        margin: 1.75rem auto;
+    }
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+ }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199.98px) {  
+
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { 
+  
+ }

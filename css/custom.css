@@ -1,0 +1,70 @@
+.view-face .avatar{
+    width: 42%;
+    border-radius: 0;
+    margin: auto;
+    display: block;
+}
+.candidate-profile .worker-avatar {
+    width: 105px;
+    height: 105px;
+    margin-top: 30px;
+    border-radius: 4px!important;
+}
+.icons-index{
+    padding: 20px 5px;
+}
+
+.icons-index .custom-control-label:after, .icons-index .custom-control-label:before {
+    top: 3px!important;
+    border-radius: 21px;
+}
+.icons-index i {
+    font-size: 20px;
+    margin-right: 6px;
+    min-width: 32px;
+}
+.icons-index label span {
+    vertical-align: super;
+    max-height: 15px;
+    line-height: 15px;
+    overflow: hidden;
+    display: inline-block;
+    max-width: 78%;
+}
+.company-list i{
+    font-size: 17px;
+}
+.candidate-profile .worker-name {
+    font-weight: 700;
+    line-height: 17px;
+}
+.blue.accent-3 {
+    background-image: linear-gradient(45deg, #369ace, #6cbafd)!important;
+}
+a:hover{
+    color: #444!important;
+}
+.nav a:hover{
+    color: #fff!important;
+}
+.btn-primary {
+    color: #fff;
+    border-color: #3282b9;
+    background-image: linear-gradient(45deg, #3493c5, #6ab9fb)!important;
+}
+.company-list .tab-pane a{
+    color: #555!important;
+}
+.nav-pills .nav-link:hover {
+    color: #3c4858 !important;
+    padding: 0.7rem 2rem;
+    font-weight: 700;
+}
+.treeview .text-secondary {
+    color: #ffffff !important;
+    background: #ed5665;
+    padding: 0 13px;
+    border-radius: 9px;
+    float: right;
+    margin-right: 10px;
+}

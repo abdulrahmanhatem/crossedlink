@@ -1,0 +1,190 @@
+[
+    {
+        "code": "de",
+        "ar_name": "الألمانية - Deutsch"
+    },
+    {
+        "code": "ur",
+        "ar_name": "الأوردية  - اردو"
+    },
+    {
+        "code": "uk",
+        "ar_name": "الأوكرانية - українська"
+    },
+    {
+        "code": "ga",
+        "ar_name": "الأيرلندية  - Gaeilge"
+    },
+    {
+        "code": "es",
+        "ar_name": "الإسبانية - español"
+    },
+    {
+        "code": "en",
+        "ar_name": "الإنجليزية - English"
+    },
+    {
+        "code": "en-gb",
+        "ar_name": "الإنجليزية البريطانية - British English"
+    },
+    {
+        "code": "id",
+        "ar_name": "الإندونيسية - Indonesia"
+    },
+    {
+        "code": "it",
+        "ar_name": "الإيطالية - italiano"
+    },
+    {
+        "code": "eu",
+        "ar_name": "الباسكية  - euskara"
+    },
+    {
+        "code": "pt",
+        "ar_name": "البرتغالية - português"
+    },
+    {
+        "code": "bg",
+        "ar_name": "البلغارية - български"
+    },
+    {
+        "code": "bn",
+        "ar_name": "البنغالية - বাংলা"
+    },
+    {
+        "code": "pl",
+        "ar_name": "البولندية - polski"
+    },
+    {
+        "code": "ta",
+        "ar_name": "التاميلية - தமிழ்"
+    },
+    {
+        "code": "th",
+        "ar_name": "التايلاندية - ไทย"
+    },
+    {
+        "code": "tr",
+        "ar_name": "التركية - Türkçe"
+    },
+    {
+        "code": "cs",
+        "ar_name": "التشيكية - čeština"
+    },
+    {
+        "code": "gl",
+        "ar_name": "الجاليكية  - galego"
+    },
+    {
+        "code": "da",
+        "ar_name": "الدانمركية - dansk"
+    },
+    {
+        "code": "ru",
+        "ar_name": "الروسية - русский"
+    },
+    {
+        "code": "ro",
+        "ar_name": "الرومانية - română"
+    },
+    {
+        "code": "sk",
+        "ar_name": "السلوفاكية - slovenčina"
+    },
+    {
+        "code": "sv",
+        "ar_name": "السويدية - svenska"
+    },
+    {
+        "code": "sr",
+        "ar_name": "الصربية - српски"
+    },
+    {
+        "code": "zh-tw",
+        "ar_name": "الصينية التقليدية - 繁體中文"
+    },
+    {
+        "code": "zh-cn",
+        "ar_name": "الصينية المبسطة - 简体中文"
+    },
+    {
+        "code": "he",
+        "ar_name": "العبرية - עברית"
+    },
+    {
+        "code": "ar",
+        "ar_name": "العربية"
+    },
+    {
+        "code": "gu",
+        "ar_name": "الغوجاراتية - ગુજરાતી"
+    },
+    {
+        "code": "fa",
+        "ar_name": "الفارسية - فارسی"
+    },
+    {
+        "code": "fr",
+        "ar_name": "الفرنسية - français"
+    },
+    {
+        "code": "fil",
+        "ar_name": "الفلبينية - Filipino"
+    },
+    {
+        "code": "fi",
+        "ar_name": "الفنلندية - suomi"
+    },
+    {
+        "code": "vi",
+        "ar_name": "الفيتنامية - Tiếng Việt"
+    },
+    {
+        "code": "kn",
+        "ar_name": "الكانادا - ಕನ್ನಡ"
+    },
+    {
+        "code": "ca",
+        "ar_name": "الكتالانية - català"
+    },
+    {
+        "code": "hr",
+        "ar_name": "الكرواتية - hrvatski"
+    },
+    {
+        "code": "ko",
+        "ar_name": "الكورية - 한국어"
+    },
+    {
+        "code": "mr",
+        "ar_name": "الماراثية - मराठी"
+    },
+    {
+        "code": "msa",
+        "ar_name": "الماليزية - Melayu"
+    },
+    {
+        "code": "no",
+        "ar_name": "النرويجية - norsk"
+    },
+    {
+        "code": "hi",
+        "ar_name": "الهندية - हिन्दी"
+    },
+    {
+        "code": "hu",
+        "ar_name": "الهنغارية - magyar"
+    },
+    {
+        "code": "nl",
+        "ar_name": "الهولندية - Nederlands"
+    },
+    {
+        "code": "ja",
+        "ar_name": "اليابانية - 日本語"
+    },
+    {
+        "code": "el",
+        "ar_name": "اليونانية - Ελληνικά"
+    }
+]

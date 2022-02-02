@@ -1,0 +1,46 @@
+/* Start Global */
+html{
+  overflow: scroll!important;
+}
+input[type="file"]{
+  display: none;
+}
+.user_avatar {
+  width: 60px;
+  height: 58px;
+}
+.navbar-custom-menu .user_avatar{
+  width: 33px;
+  height: 33px;
+}
+.blue.accent-3 {
+  background-color: #3282b9 !important;
+  background: rgba(0,0,0,0.5);
+  background: -moz-linear-gradient(left, #1c72aa , #3282b9); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1c72aa), color-stop(100%,#3282b9)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left,  #1c72aa 0%,#3282b9 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left,  #1c72aa 0%,#3282b9 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(left,  #1c72aa 0%,#3282b9 100%); /* IE10+ */
+  background: linear-gradient(to right, #1c72aa 0%, #3282b9 100%); /* W3C */
+}
+.paper-nav-toggle i, .paper-nav-toggle i::before, .paper-nav-toggle i::after {
+  background: white!important;
+}
+/* Deleting spiners with Input With Type Number 
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+/* Firefox */
+input[type=number] {
+  -moz-appearance:textfield;
+}
+/* Start NavBar */
+.custom-dropdown .row > div {
+  padding: 0;
+}
+.main-sidebar .logo{
+  width: 120px;
+}

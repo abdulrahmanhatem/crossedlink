@@ -1,0 +1,704 @@
+/************* new rtl added by Emad **********/
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&display=swap');
+html,body,p,h1,h2,h3,h4,h5,h6,.text-foot{
+    direction: rtl;
+    letter-spacing: -1px!important;
+    font-family: 'Tajawal', sans-serif!important;
+}
+a, span{
+    letter-spacing: 0; 
+}
+html,body,p{
+    text-align: right;
+}
+sup, input, textarea, button{
+    font-family: 'Tajawal', sans-serif!important;
+}
+.login-form .facebook .icon, .login-form .google .icon, .login-form .apple .icon {
+    float: left;
+}
+.float-left{
+    float: right !important;
+}
+.float-right {
+    float: left !important;
+}
+.tagline .email, .tagline .phone{
+    direction: ltr;
+    padding-left: 10px;
+    padding-right: unset;
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+.phone .mdi-phone-classic,.email .mdi-email{
+    float: right;
+    margin-left: 5px;
+}
+.list-inline-item:not(:last-child){
+    margin-right: unset;
+    margin-left: 5px;
+}
+.mr-2, .mx-2{
+    margin-right: unset !important;
+    margin-left: .5rem !important;
+}
+#topnav .logo{
+    float: right;
+}
+.tagline .dropdown .dropdown-menu .dropdown-item{
+    text-align: right;
+}
+.list-unstyled{
+    padding-left: unset;
+    padding-right: 0;
+}
+.mdi-chevron-right::before{
+    content: "\F141";
+}
+.footer-bar .mb-0{
+    text-align: center;
+}
+.back-to-top{
+    right: unset;
+    left:30px
+}
+#topnav .menu-extras{
+    float: left;
+}
+.blog-post-counter .counter-name{
+    text-align: center;
+}
+.list-inline{
+    padding-left: unset;
+    padding-right: 0;
+}
+.mr-4, .mx-4{
+    margin-right: unset;
+    margin-left: 1.5rem !important;
+}
+.text-right{
+    text-align: left !important;
+}
+.text-left{
+    text-align:right !important;
+}
+.nav{
+    padding-right: 0;
+    padding-left: unset;
+}
+.view-profile-details{
+    margin-left: 1.8%;
+    margin-right: unset;
+}
+.verified .text-primary{
+    display: inline-block;
+}
+#experience a{
+    display: inline-block;
+}
+#about .phone{
+    direction: ltr;
+clear: both;
+}
+#about .phone .fa-phone-alt {
+    float: right;
+    margin-top: 0;
+}
+#about .phone .profile-label {
+    float: right;
+    margin-top: 0;
+    direction: rtl;
+    margin-bottom: 0;
+}
+.custom-file-label::after {
+    border-radius: 10px 0 0 10px;
+    right: unset;
+    left: 0;
+    border-right: inherit;
+    border-left: unset;
+}
+.pl-4, .px-4 {
+    padding-left: unset;
+    padding-right: 1.5rem !important;
+}
+.custom-control-input{
+    left: unset;
+    right: 0;
+}
+.custom-control-label::before {
+    left: unset;
+    right: -1.5rem;
+}
+.custom-control-label::after {
+    left: unset;
+    right: -25px;
+}
+.bootstrap-select .dropdown-toggle .filter-option-inner-inner, .bootstrap-select .dropdown-menu li a{
+    text-align: right;
+}
+#experiences h6 a{
+    display: inline-block;
+}
+.options-dropdown{
+    right:unset;
+}
+.experience-view .options-dropdown{
+    left: 35px;
+    right: unset;
+}
+.experience-view .options-dropdown .dropdown-menu{
+    left: unset;
+    right:-133px !important;
+    max-width: 140px;
+}
+.profile-edit .education .options-dropdown{
+    left: 33px;
+    right: unset;
+}
+.bootstrap-tagsinput .tag{
+    margin-left: 2px;
+    margin-right: unset;
+}
+.pr-2, .px-2{
+    padding-right: unset;
+    padding-left: .5rem !important;
+}
+.ml-2, .mx-2{
+    margin-right: .5rem !important;
+    margin-left:unset;
+}
+.profile-edit .skills .options-dropdown, .profile-edit .languages .options-dropdown{
+    left: -10px;
+    right: unset;
+}
+.gallery .previewer img{
+    float: right;
+}
+#apply .text-dark{
+    display: inline-block;
+}
+.bread-crumbs .text-muted{
+    display: inline-block;
+}
+.sign-up h6 .text-danger{
+    display: inline-block;
+}
+#topnav .buy-button{
+    float: left;
+}
+.notification small{
+    left: 0;
+    right: unset;
+}
+.dropdown-menu{
+    text-align: right;
+}
+.hours h5 {
+    direction: rtl;
+}
+#general #sa,#general #su,#general #mo,#general #tu,#general #we,#general #th,#general #fr{
+    text-align: right;
+    direction: ltr;
+}
+.mr-1, .mx-1{
+    margin-right: unset;
+    margin-left: .25rem !important;
+}
+.input-group > .custom-select:not(:last-child), .input-group > .form-control:not(:last-child){
+    border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+border-top-left-radius: 0;
+border-bottom-left-radius: 0;
+}
+.input-group > .input-group-append > .btn, .input-group > .input-group-append > .input-group-text, .input-group > .input-group-prepend:first-child > .btn:not(:first-child), .input-group > .input-group-prepend:first-child > .input-group-text:not(:first-child), .input-group > .input-group-prepend:not(:first-child) > .btn, .input-group > .input-group-prepend:not(:first-child) > .input-group-text{
+    border-top-right-radius: 0;
+border-bottom-right-radius: 0;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+}
+a.job-list[data-toggle="collapse"]::before {
+    left: 10px;
+    right: unset;
+}
+.custom-control{
+    padding-right: 1.5rem;
+    padding-left: unset;
+}
+.float-sm-right{
+    float: left !important;
+}
+.nice-select{
+    text-align: right !important;
+}
+.nice-select .option{
+    padding-left: 29px;
+padding-right: 18px;
+text-align: right;
+}
+.nice-select::after {
+    left: 12px;
+    right: unset;
+}
+.login-form input{
+    direction: rtl!important;
+}
+.login-media .google, .login-form .apple, .login-form .facebook {
+    direction: ltr!important;
+}
+.tagline .dropdown.languages .dropdown-menu {
+    min-width: 140%!important;
+}
+#topnav.scroll-active .navigation-menu > li > a {
+    letter-spacing: 0;
+}
+.profile-dropdown .dropdown-menu {
+    width: 207px!important;
+}
+.view-about i {
+    float: right;
+}
+
+/* After */
+.checkout-page .checkout-box span {
+    float: left;
+}
+.profile-label:not(.view-profile-contact .profile-label) {
+    float: right;
+}
+.billing-box .email{
+    display: block;
+    width: 100%;
+    height: 30px;
+}
+.checkout-page .checkout-box span.sub-label {
+    float: right!important;
+}
+.btn-card-option {
+    width: 75px!important;
+}
+.candidate-profile .tab-content i {
+    font-weight: 500;
+    float: none;
+    padding-left: 5px;
+}
+.candidate-profile .email span, .candidate-profile .phone span {
+    float: none;
+}
+.view-profile-details > div {
+    display: block!important;
+    height: 28px;
+    text-align: right;
+}
+.view-profile-details > span:not(.skill) {
+    display: block!important;
+    height: 51px;
+    padding: 14px 0px;
+    text-align: center;
+
+}
+.view-profile-details > span.salary {
+    display: block!important;
+    height: 51px;
+    padding: 14px 0px;
+    text-align: right;
+}
+.view-profile-details .profile-label{
+    margin: 0;
+}
+.para-desc {
+    text-align: center;
+}
+.login-form .col-md-6{
+    padding-right: 15px;
+}
+
+.policy .req {
+    margin: 3px;
+    color: #3885bb;
+}
+.policy .req:after {
+    content: ' - ';
+}
+.sign-up .steps .step:not(:last-of-type) i:after {
+    right: 100%;
+    left: auto;
+}
+.sign-up .custom-control-label::before {
+    right: 0;
+}
+.sign-up .salary{
+    padding-right: 26px;
+}
+.sign-up .steps .step p {
+    text-align: center;
+}
+.offset-sm-3 {
+    margin-right: 25%;
+}
+.options-dropdown {
+    left: 33px;
+}
+.country-code .row > div:last-of-type {
+    padding-left: 18px!important;
+    padding-right: 0!important;
+}
+.country-code .bootstrap-select {
+    border-radius: 0 10px 10px 0 !important;
+}
+.country-code-phone{
+    border-radius: 10px 0  0  10px !important;
+}
+.countryCode{
+    border-radius: 0 10px 10px 0!important;
+}
+.country-code .col-sm-3.pr-0 {
+    padding-left: 0!important;
+    padding-right: 10px!important;
+}
+.country-code .col-sm-9.pl-0 {
+    padding-right: 0!important;
+    padding-left: 10px!important;
+}
+.job-dropdown .dropdown-menu {
+    left: 0!important;
+}
+.options-dropdown {
+    right: auto!important;
+    left: 19px!important;
+    top: 11px!important;
+}
+.known{
+    background-color: #fff;
+    padding: 15px 40px;
+    border-radius: 23px;
+}
+.known h4, .known p, .known span{
+    display: block;
+    width: 100%;
+
+}
+.known span{
+    display: block;
+    width: 100%;
+    font-weight: 400;
+    position: relative;
+}
+.known span i{
+    font-size: 10px;
+    color: #3382b9;
+    margin-left: 5px;
+}
+.known h2{
+    display: block;
+    width: 100%;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.known h4{
+    display: block;
+    width: 100%;
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 15px;
+}
+.known p{
+    font-size: 20px;
+    font-weight: 500;
+    font-size: 15px;
+}
+.known img {
+    max-width: 100%;
+    margin: 30px auto;
+    height: auto;
+    width: 100%;
+}
+.img-a {
+    margin: auto;
+    width: 70%!important;
+}
+.known .brand{
+    color: #3382b9;
+    display: inline;
+    font-weight: 600;
+}
+.languages .dropdown-menu {
+    width: 120px!important;
+}
+.languages .dropdown-menu .dropdown-item i {
+    margin-left: 6px!important;
+    margin-right: 0!important;
+}
+.how-it-work-box p{
+    text-align: center!important;
+}
+.job-detail .mdi-send::before {
+    content: "\F48A";
+    transform: rotate(180deg);
+}
+.job-details-desc-item .mr-3{
+    margin-left: 10px!important;
+    margin-right: 0!important;
+}
+
+.candidate-profile .phone span {
+    padding: 0 5px;
+    display: inline-block;
+    font-weight: 600;
+}
+.modal-header .close {
+    padding: 1rem 1rem;
+    margin: -1rem -0-1rem 0!important;
+}
+.education .mdi{
+    float: right!important;
+}
+.unlocked-badge {
+    top: -5px;
+    right: -35px;
+    left: auto;
+    transform: rotate(47deg);
+}
+.profile-edit .unlocked-badge {
+    right: -50px;
+}
+.chat-page .chat-profile {
+    margin-right: 2%;
+    margin-left: 0;
+}
+.chat-attach {
+    right: 12px;
+    left: auto;
+}
+.chat-submit {
+    left: 0;
+    right: auto;
+    transform: rotate(180deg);
+}
+.messege {
+    padding-right: 33px;
+    padding-left: 0;
+}
+.dropdown.languages img {
+    margin-left: 5px;
+    margin-right: 0!important;
+}
+.box-modal-edit {
+    text-align: left!important;
+}
+.candidate-profile .lang .options-dropdown {
+    right: auto!important;
+    left: -12px!important;
+    top: -1px!important;
+}
+.view-profile-details > div {
+    display: block!important;
+    height: auto;
+    text-align: right;
+}
+.candidate-profile .view-profile-details > span.salary {
+    display: block!important;
+    height: 51px;
+    padding: 0 0px;
+    text-align: right;
+}
+.toast {
+    direction: rtl;
+}
+.toast .toast-header{
+    display: block;
+    padding: 7px 12px;
+}
+.toast-header strong{
+    margin-right: 0!important;
+}
+.toast-header .close{
+    float: left;
+    margin: 0!important;
+}
+.card-view .options-dropdown {
+    left: 22px!important;
+    right: auto!important;
+}
+.o-hours select {
+    direction: rtl!important;
+}
+
+.mobile-modal input{
+    direction: ltr;
+    text-align: right;
+}
+.edu-submit-btn{
+    text-align: left;
+}
+.ex-submit-btn{
+   float: left;
+}
+.multiselect-native-select button.multiselect {
+    text-align: right;
+}
+.pricing-box li{
+    text-align: right;
+}
+.pricing-box li .pricing-val{
+    float: left;
+}
+.pricing-box i {
+    margin-left: 7px!important;
+    margin-right: 0!important;
+}
+.modal .multiselect.btn-default {
+    text-align: right!important;
+}
+.cannot-view.candidate-profile .verified {
+    width: 105px;
+}
+.candidate-profile .verified {
+    text-align: right!important;
+    width: 148px!important;
+}
+.footer-bar .mb-0 {
+    text-align: center;
+    direction: ltr!important;
+}
+.val-tip.text-left{
+    text-align: right;
+}
+
+.checkout-page .email span, .checkout-page .phone span {
+    float: left;
+}
+.checkout-page .offset-lg-2{
+    margin-left: 10px!important;
+    margin-right: 16%!important;
+}
+.billing-box span{
+    text-align: left;
+}
+.candidate-profile .phone span {
+    padding: 0 5px;
+    display: inline-block;
+    font-weight: 600;
+    direction: rtl;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1200px) {  }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {  
+    .checkout-page .offset-lg-2{
+        margin-left: 10px!important;
+        margin-right: 0!important;
+    }
+    .checkout-page .col-lg-4 {
+        -ms-flex: 0 0 49%!important;
+        flex: 0 0 49%!important;
+        max-width: 49%!important;
+    }
+}
+
+@media (max-width: 992px){
+    .navs-drops {
+        display: inline-block;
+        width: 39%;
+        float: right!important;
+        padding-top: 15px;
+    }
+    .languages.no-large-screen.dropdown {
+        padding-top: 22px;
+    }
+    .languages.no-large-screen.dropdown {
+        text-align: left;
+       
+    }
+    #topnav .navbar-toggle .lines {
+        margin: 32px 1px 24px;
+    }
+    .checkout-page .offset-lg-2{
+        margin-left: 0!important;
+        margin-right: 0!important;
+        margin-bottom: 20px!important;
+    }
+    .checkout-page .col-lg-4 {
+        -ms-flex: 0 0 96%!important;
+        flex: 0 0 96%!important;
+        max-width: 96%!important;
+    }
+
+}
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .checkout-page .offset-lg-2{
+        margin-left: 10px!important;
+        margin-right: 0!important;
+    }
+    .checkout-page .col-lg-4 {
+        -ms-flex: 0 0 96%!important;
+        flex: 0 0 96%!important;
+        max-width: 96%!important;
+    }
+ }
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {  
+    #topnav .navbar-toggle .lines {
+        margin: 32px 5px 24px!important;
+    }
+}
+
+@media (max-width: 767px){
+    .btn-card-option {
+        width: 100%!important;
+    }
+}
+
+
+@media (max-width:500px){
+    #topnav .logo{
+        margin-right: 0;
+        margin-left: unset;
+    }
+    .navs-drops {
+        width: 31%!important;
+    }
+    .navs-drops .profile-dropdown, .navs-drops .notification {
+        width: 42px;
+    }
+    #topnav .navbar-toggle .lines {
+        margin: 32px -2px 24px;
+        width: 5vw;
+    }
+    .img-a {
+        margin: auto;
+        width: 100%!important;
+    }
+    .checkout-page .profile-label {
+        font-weight: 700;
+        color: #444;
+        padding-right: 1px;
+        font-size: 3vw;
+    }
+    .country-code-phone{
+        border-radius: 10px !important;
+    }
+    .countryCode{
+        border-radius: 10px!important;
+    }
+}

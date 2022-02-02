@@ -1,0 +1,35 @@
+[23-Jun-2020 19:22:12 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /var/home/crossedlink/public_html/v.2/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[23-Jun-2020 19:23:23 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /var/home/crossedlink/public_html/v.2/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[24-Jun-2020 07:25:57 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /var/home/crossedlink/public_html/v.2/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[24-Jun-2020 08:11:52 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /var/home/crossedlink/public_html/v.2/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[24-Jun-2020 15:29:27 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /var/home/crossedlink/public_html/v.2/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[15-Jul-2020 20:09:12 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[15-Jul-2020 20:09:14 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[15-Jul-2020 20:09:14 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[15-Jul-2020 20:09:14 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[15-Jul-2020 20:09:14 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[15-Jul-2020 20:09:14 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[15-Jul-2020 20:09:53 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[15-Jul-2020 20:09:55 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[15-Jul-2020 20:09:55 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[15-Jul-2020 20:09:56 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[15-Jul-2020 20:09:58 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[15-Jul-2020 20:09:58 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[15-Jul-2020 20:22:55 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[15-Jul-2020 20:22:56 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[15-Jul-2020 20:22:56 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[15-Jul-2020 20:22:56 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[15-Jul-2020 20:22:56 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[15-Jul-2020 20:22:56 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[15-Jul-2020 20:22:57 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/crossedlink/public_html/v.5/public/index.php on line 4
+[21-Jul-2020 15:37:05 EET] PHP Fatal error:  Allowed memory size of 4244635648 bytes exhausted (tried to allocate 20480 bytes) in /home/crossedlink/public_html/v.5/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 416
+[21-Jul-2020 15:37:05 EET] PHP Fatal error:  Allowed memory size of 4244635648 bytes exhausted (tried to allocate 163840 bytes) in /home/crossedlink/public_html/v.5/vendor/composer/ClassLoader.php on line 444
+[21-Jul-2020 15:37:58 EET] PHP Fatal error:  Allowed memory size of 4244635648 bytes exhausted (tried to allocate 20480 bytes) in /home/crossedlink/public_html/v.5/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 416
+[21-Jul-2020 15:37:58 EET] PHP Fatal error:  Allowed memory size of 4244635648 bytes exhausted (tried to allocate 163840 bytes) in /home/crossedlink/public_html/v.5/vendor/composer/ClassLoader.php on line 444
+[21-Jul-2020 15:38:42 EET] PHP Fatal error:  Allowed memory size of 4244635648 bytes exhausted (tried to allocate 20480 bytes) in /home/crossedlink/public_html/v.5/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 416
+[21-Jul-2020 15:38:42 EET] PHP Fatal error:  Allowed memory size of 4244635648 bytes exhausted (tried to allocate 163840 bytes) in /home/crossedlink/public_html/v.5/vendor/composer/ClassLoader.php on line 444
+[21-Jul-2020 15:39:25 EET] PHP Fatal error:  Allowed memory size of 4244635648 bytes exhausted (tried to allocate 20480 bytes) in /home/crossedlink/public_html/v.5/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 416
+[21-Jul-2020 15:39:25 EET] PHP Fatal error:  Allowed memory size of 4244635648 bytes exhausted (tried to allocate 163840 bytes) in /home/crossedlink/public_html/v.5/vendor/composer/ClassLoader.php on line 444
+[08-Aug-2020 05:53:16 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/crossedlink/public_html/v.5/app/Helpers/AppHelper.php on line 2147
+[08-Aug-2020 07:52:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/crossedlink/public_html/v.5/app/Helpers/AppHelper.php on line 2213
+[08-Aug-2020 15:46:36 UTC] PHP Warning:  POST Content-Length of 15288181 bytes exceeds the limit of 8388608 bytes in Unknown on line 0

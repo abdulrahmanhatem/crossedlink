@@ -1,0 +1,8 @@
+[19-Aug-2020 13:45:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/crossedlink/public_html/database/migrations/2014_10_12_000000_create_users_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/crossedlink/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 6
+[20-Aug-2020 07:00:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/crossedlink/public_html/database/migrations/2014_10_12_000000_create_users_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/crossedlink/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 6

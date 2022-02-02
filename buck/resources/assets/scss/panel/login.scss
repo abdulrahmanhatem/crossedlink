@@ -1,0 +1,94 @@
+
+
+/* Start Login */
+
+@media (min-width: 992px){
+  .login-panel, .register-panel{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    .logo{
+      width: 135px;
+      margin: 0 auto 48px;
+    }
+    .form{
+      width: 22%;
+      margin: auto;
+      margin-top: 7vw;
+      border: 1px solid #00000080;
+      border-radius: 30px;
+      background: #eeeeee20;
+      background: rgba(0,0,0,0.5);
+      color: #eeeeee;
+      border-bottom: 0;
+      padding: 36px;
+      a{
+        color: #eeeeee;
+        font-size: 12px;
+        padding: 8px 0 0;
+      }
+      h3{
+        color: #eeeeee;
+      }
+      input{
+        font-size: 11px;
+      }
+      i{
+        color: #555;
+      }
+      .switch{
+        color: #8ae2d9;
+        transition: all ease-in-out .3s;
+        &:hover{
+          color: #fff;
+        }
+      }
+    }
+  }
+}
+@media (max-width: 992px){
+  .login-panel, .register-panel{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    .logo{
+      width: 100px;
+      margin: 0 auto 48px;
+    }
+    .form{
+      width: 50vw;
+      margin: auto;
+      margin-top: 7vw;
+      border: 1px solid #eeeeee30;
+      border-radius: 30px;
+      background: #eeeeee20;
+      background: rgba(0,0,0,0.5);
+      color: #eeeeee;
+      border-bottom: 0;
+      padding: 36px;
+      a{
+        color: #eeeeee;
+        font-size: 12px;
+        padding: 8px 0 0;
+      }
+      h3{
+        color: #eeeeee;
+      }
+      input{
+        font-size: 11px;
+      }
+      i{
+        color: #555;
+      }
+      .switch{
+        color: #8ae2d9;
+        transition: all ease-in-out .3s;
+        &:hover{
+          color: #fff;
+        }
+      }
+    }
+  }
+}

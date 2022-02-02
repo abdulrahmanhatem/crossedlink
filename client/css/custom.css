@@ -1,0 +1,509 @@
+/* Start Global */ 
+html{
+  scroll-behavior: smooth;
+}
+div, h1, h2, h3, h4, h5, h6{
+  font-family: Economica!important;
+}
+a, .date{
+  font-family: 'Asap'!important;
+}
+.nav-logo img, .foot-logo img {
+  max-width: 130px;
+  margin: 7px 0;
+  height: auto;
+}
+.tm-logo:before, .tm-logo:after{
+  display: none;
+}
+.uk-navbar {
+  background: rgba(0, 0, 0, 0.5);
+}
+.va-main-our-news, .va-gallery, .va-awards, .va-shop, .va-video, .va-main-next-match, .teamdonate-form, .va-newsletter{
+  display: none!important;
+}
+.our-team-main-wrap{
+  background: white;
+}
+.donate-wrap .intro-text {
+  margin-bottom: 55px;
+}
+.img-polaroid{
+  height: 260px;
+}
+.va-about-wrap{
+  height: 315px;
+}
+.bio a{
+  font-size: 13px;
+  color: white;
+}
+.uk-slidenav, .uk-dotnav{
+  display: none!important;
+}
+.tm-top-c-box.home-about {
+  margin-bottom: 55px;
+}
+.trainer-wrapper .img-wrap img{
+  width: 253px;
+  height: 237px;
+  margin-top: 0px;
+  border: 1px solid #129043;
+}
+.trainers-module .img-wrap {
+  margin-top: 75px;
+}
+.bottom-wrapper {
+  padding: 30px 0 0 0;
+}
+.footer-wrap {
+  padding: 20px 0 19px 0;
+}
+.copyrights {
+  color: #bababa;
+}
+.copyrights span{
+  font-weight: 600;
+  font-size: 14px;
+}
+.foot-menu-wrapul {
+  list-style: none;
+  margin-top: 17px;
+}
+/* Start Nav Bar */
+.tm-menu-box .uk-icon-hover {
+  color: #ffffff;
+  transition: all ease-in-out .2s;
+}
+.uk-open .uk-icon-hover {
+  color: #129043;
+}
+.uk-navbar-nav {
+  height: 5vw;
+}
+.uk-navbar-nav > li, .uk-navbar-nav > li > a {
+  height: 100%;
+}
+.uk-navbar-nav > li > a {
+  padding: 15px 24px 0;
+}
+
+
+/* Start Club */
+.club-create .club, .club-show .club {
+  position: relative;
+  width: 100%;
+}
+.club-create .club-img, .club-show .club-img {
+  width: 100%;
+}
+.club-create .club-ads, .club-show .club-ads {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+}
+.club-create .club-ad, .club-show .club-ad {
+  width: 49.6%;
+  height: 100%;
+  margin: 0;
+  display: inline-block;
+  background: transparent;
+  transition: all ease-in-out 0.5s;
+  cursor: pointer;
+}
+.club-create .club-ad-1, .club-show .club-ad-1, .club-create .club-ad-2, .club-show .club-ad-2 {
+  width: 56%;
+  height: 1.8vw;
+  margin: 0 22%;
+}
+.club-create .club-ad-1, .club-show .club-ad-1 {
+  margin-top: 4.6vw;
+}
+.club-create .club-ad-2, .club-show .club-ad-2 {
+  margin-top: 0.2vw;
+}
+.club-create .club-ad-3, .club-show .club-ad-3, .club-create .club-ad-4, .club-show .club-ad-4 {
+  width: 2vw;
+  height: 10vw;
+  margin-left: 77%;
+}
+.club-create .club-ad-3, .club-show .club-ad-3 {
+  margin-top: 0.8vw;
+}
+.club-create .club-ad-4, .club-show .club-ad-4 {
+  margin-top: 2.5vw;
+  /*.club-ad:hover {
+   background: #00000030;
+   }*/
+}
+.club-create .club-top, .club-show .club-top, .club-create .club-bottom, .club-show .club-bottom {
+  height: 50%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.club-create .club-ad img, .club-show .club-ad img {
+  width: 100%;
+  height: 100%;
+}
+.club-create .club-sponsors, .club-show .club-sponsors {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+}
+.club-create .club-sponsors .club-sponsors-container, .club-show .club-sponsors .club-sponsors-container {
+  margin: 0;
+  height: 100%;
+}
+.club-create .club-sponsors .club-sponsors-container .club-sponsor, .club-show .club-sponsors .club-sponsors-container .club-sponsor {
+  width: 36%;
+  height: 33%;
+  margin: 0 0 0 30%;
+  display: inline-block;
+  background: transparent;
+  transition: all ease-in-out 0.5s;
+  cursor: pointer;
+  color: #999;
+}
+.club-create .club-sponsors .club-sponsors-container .club-sponsor:hover, .club-show .club-sponsors .club-sponsors-container .club-sponsor:hover {
+  background: #00000030;
+}
+.club-create .club-sponsors .club-sponsors-container .club-sponsor-2, .club-show .club-sponsors .club-sponsors-container .club-sponsor-2 {
+  height: 20%;
+}
+.club-create .club-sponsors .club-sponsors-container .club-sponsor-3, .club-show .club-sponsors .club-sponsors-container .club-sponsor-3 {
+  height: 42%;
+}
+.club-create .club-sponsors .club-sponsors-container .club-sponsor-4, .club-show .club-sponsors .club-sponsors-container .club-sponsor-4 {
+  height: 45%;
+  margin: 0;
+  width: 65%;
+}
+.club-create .club-sponsors .club-sponsors-container .club-sponsor-5, .club-show .club-sponsors .club-sponsors-container .club-sponsor-5 {
+  margin: 34% 0 0 29%;
+  width: 48%;
+}
+.club-create .club-sponsors .club-sponsors-container > div, .club-show .club-sponsors .club-sponsors-container > div {
+  padding: 0;
+}
+.club-create .club-top, .club-show .club-top, .club-create .club-bottom, .club-show .club-bottom {
+  height: 50%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.club-create .club-ad img, .club-show .club-ad img {
+  width: 100%;
+  height: 100%;
+}
+.club-create .club_avatar, .club-show .club_avatar {
+  text-align: center;
+  margin: 0 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: relative;
+}
+.club-create .club-modal .modal-dialog, .club-show .club-modal .modal-dialog, .club-create .sponsor-modal .modal-dialog, .club-show .sponsor-modal .modal-dialog, .club-show .modal-dialog{
+  max-width: 65%;
+}
+.modal-dialog iframe{
+    border: 0;
+    width: 100%;
+    min-height: 700px;
+}
+.club-create .club-options, .club-show .club-options {
+  margin: 0;
+  min-height: 300px;
+}
+.club-create .club-options .ads, .club-show .club-options .ads, .club-create .club-options .sponsors, .club-show .club-options .sponsors {
+  text-align: center;
+  padding-top: 125px;
+  background: white;
+  border: 1px solid #eee;
+  transition: all ease-in-out 0.3s;
+  margin: 10px;
+  max-width: 48%;
+  cursor: pointer;
+  background: rgba(0,0,0,0.8);
+}
+.club-create .club-options .ads:hover, .club-show .club-options .ads:hover, .club-create .club-options .sponsors:hover, .club-show .club-options .sponsors:hover {
+  box-shadow: #eee 3px 5px 7px;
+}
+.club-logo{
+  margin: auto;
+  border: 0!important;
+}
+.club-sponsor-1, .club-sponsor-3{
+  width: 36%!important;
+  height: 12%!important;
+  margin: 21% 0 1% 30%!important;
+  text-align: center;
+  padding-top: 24px;
+}
+.club-sponsor-2{
+  width: 13%!important;
+  height: 12%!important;
+  margin: 1% 0 1% 41.5%!important;
+  text-align: center;
+  padding-top: 24px;
+}
+.club-sponsor-3{
+  width: 36%!important;
+  height: 12%!important;
+  margin: 1% 0 1% 30%!important;
+  text-align: center;
+  padding-top: 24px;
+}
+.club-sponsor-4{
+  width: 36%!important;
+    height: 14%!important;
+    margin: 66% 0 1% 13%!important;
+    text-align: center;
+    padding-top: 24px;
+}
+.club-sponsor-5{
+  margin: 62% 0 1% 38%!important;
+  text-align: center;
+  padding-top: 33px;
+  width: 31%!important;
+  height: 15%!important;
+}
+.club-options .sponsors, .club-options .ads{
+  overflow: hidden;
+}
+.club-options .sponsors:before, .club-options .ads:before{
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 560px;
+  bottom: 0;
+  opacity: 0.8;
+  left: -185px;
+  z-index: 0;
+  width: 140px;
+  transform: skew(-45deg);
+  display: block;
+  background: #12904390;
+  transition: all ease-in-out .1s;
+
+}
+.club-options .sponsors span, .club-options .ads span{
+  position: absolute;
+    top: 43%;
+    left: 43%;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 21px;
+    transition: all ease-in-out .2s;
+}
+.club-options .sponsors:hover span, .club-options .ads:hover span{
+  color: #129043;
+}
+.club-options .sponsors:hover:before, .club-options .ads:hover:before{
+  left: -230px;
+}
+
+.player-single .avatar {
+  text-align: center;
+  border: 0!important;
+  box-shadow: 0px 0px 0px!important;
+}
+
+.player-single .avatar img {
+  max-width: 130px;
+  height: auto;
+  margin-top: 36px;
+}
+.club-modal .modal-dialog img{
+  height: 745px;
+}
+
+/* Start Dashbord Admins */
+.match-list-wrap .match-list-item .va-view-wrap a {
+  display: inline-block;
+}
+.va-view-wrap .option{
+  margin-top: 5px;
+  width: 37px!important;
+  display: inline-block;
+  box-sizing: border-box;
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 34px;
+  font-family: 'Asap';
+  transition: 400ms all;
+  -webkit-transition: 400ms all;
+  text-transform: uppercase;
+  border: 1px solid #129043;
+  background: transparent;
+  margin-right: 5px;
+}
+.va-view-wrap .option i {
+  color: #fff;
+}
+.match-list-wrap .match-list-item .date span {
+  padding-top: 16px;
+  height: 100%;
+}
+.match-list-wrap .match-list-item .name {
+  padding: 0 14px;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #fff;
+  width: 13vw;
+}
+.match-list-wrap .match-list-item .green {
+  color: #129043;
+  font-size: 16px;
+  width: 10vw;
+}
+.match-list-wrap .match-list-item .phone {
+  padding: 0 14px;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #fff;
+  width: 3vw;
+}
+.match-list-wrap .match-list-item .location {
+  width: 8vw;
+}
+.news-sidebar .img-wrap {
+  width: 50px;
+  height: 50px;
+  background: transparent;
+}
+/* Start Clubs Dashboard */
+.dashboard-clubs .team, .dashboard-clubs .ad {
+  padding: 0 14px;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #fff;
+  width: 7vw;
+}
+.dashboard-clubs .ad{
+  width: 3vw;
+}
+.dashboard-clubs .ad .success {
+  background: #129043;
+  color: #fff;
+  padding: 2px 7px;
+  border-radius: 1px;
+}
+.dashboard-clubs .name {
+  width: 12vw;
+}
+.match-list-wrap .match-list-item .logo {
+  width: 30px;
+}
+.match-list-wrap .match-list-item .settings {
+  padding: 14px 0;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #fff;
+  width: 12vw;
+  float: right;
+}
+.categories-sidebar .menu li {
+  padding: 0 30px 0 15px;
+  position: relative;
+  color: #787774;
+  display: block;
+  width: 100%;
+}
+.match-list-wrap .match-list-item .date span {
+  padding-top: 8px;
+  font-size: 14px;
+}
+.match-list-wrap .match-list-item .date span {
+  padding-top: 15px;
+  font-size: 11px;
+  text-align: center;
+  padding-right: 3px;
+}
+.match-list-wrap .match-list-item .date span {
+  font-family: 'Asap'!important;
+}
+.donate-wrap {
+  margin: 0 0 90px 0 !important;
+}
+.promo-sub{
+  font-size: 28px;
+}
+.player-article .club-wrapper{
+  cursor: pointer;
+  width: 100%;
+  height: 100%;
+}
+.tm-top-c-box.home-about {
+  margin-top: 90px;
+  background: url(../images/home-about-bg.jpg) 50% 50%;
+  background-size: cover;
+}
+.player-article .img-wrap:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.2);
+  z-index: -1;
+  opacity: 0;
+}
+.player-article .img-wrap .layer {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  opacity: 0;
+}
+.player-article .img-wrap .layer:hover {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  opacity: .5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width: 1200px){
+  .dashboard-admins, .dashboard-clubs {
+      max-width: 1800px!important;
+      padding: 0 35px;
+  }
+}
